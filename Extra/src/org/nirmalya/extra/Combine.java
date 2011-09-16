@@ -7,6 +7,11 @@ import java.io.PrintWriter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 
+ * @author nirmalya
+ *
+ */
 public class Combine {
 	public static void main(String[] args) {
 		String file1 = args[0];
